@@ -1,4 +1,4 @@
-# Boston Weather Insights: Historical Data Retriever
+# Boston Weather Insights: Data Retriever
 
 ## Overview
 
